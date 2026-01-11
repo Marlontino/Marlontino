@@ -64,7 +64,7 @@ I'm actively seeking opportunities in:
 
 - **Email:** perry.niko7@gmail.com
 - **LinkedIn:** [Niko Perry](https://www.linkedin.com/in/niko-perry-b66025267)
-- **Portfolio:** [View my portfolio](https://your-portfolio-url.com)
+- **Portfolio:** [View my portfolio](https://marlontino.github.io/)
 
 ## 📊 GitHub Stats
 
