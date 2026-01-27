@@ -42,10 +42,6 @@ A comprehensive stock market analysis and trading system with momentum analysis,
 
 **Technologies:** Python, Pandas, scikit-learn, SQLite, yfinance
 
-```bash
-./stock-analyzer analyze ml
-```
-
 ---
 
 ### [Weather Automation Pipeline](https://github.com/Marlontino/Weather)
