@@ -2,6 +2,8 @@
 
 **Aspiring Data Analyst** passionate about turning data into actionable insights and meaningful stories.
 
+🌐 **[View My Portfolio](https://marlontino.github.io/)**
+
 ## 🎯 About Me
 
 Computer Science graduate with a focus on data processing, automation, and system-level software. Experienced in Python and C++, with hands-on projects involving ETL pipelines, machine learning, concurrent systems, and financial analysis. Strong foundation in debugging, reliability, and translating real-world requirements into maintainable code.
@@ -102,12 +104,6 @@ I'm actively seeking opportunities in:
 - **Email:** perry.niko7@gmail.com
 - **LinkedIn:** [Niko Perry](https://www.linkedin.com/in/niko-perry-b66025267)
 - **Portfolio:** [View my portfolio](https://marlontino.github.io/)
-
-## 📊 GitHub Stats
-
-![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marlontino&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marlontino&layout=compact&theme=radical)
 
 ---
 
